@@ -1,0 +1,12 @@
+services:
+  frontend:
+    build: .
+    ports:
+      - "9000:5001"
+    volumes:
+      - .:/app
+    environment:
+      FLASK_DEBUG: "true" 
+        # which means every time container detect the file changes and apply it
+  db:
+    image: redis:alpine
