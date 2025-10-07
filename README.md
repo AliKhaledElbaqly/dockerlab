@@ -302,18 +302,5 @@ Ali Khaled
 
 </div>
 
-<div align="center">
-  
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE3bXlhMXh0ZW5jejlzdG85ajVtaGxkNXBqenk1NGt1YWNxMGEzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OG2mixKM4BKsFOpMMv/giphy.gif" alt="Ali Khaled DevOps Banner" width="100%">
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300px">
-</p>
-
-
-
 ---
 
